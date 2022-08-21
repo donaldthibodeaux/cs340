@@ -22,4 +22,8 @@ How do you approach a problem as a computer scientist? Consider how you approach
 
 
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
-Ths project would help gratly n narrowing down search results. Without the dashboard the company would have to go through thousands of records. I believe the job of a computer scientists to to find ways to make computers Functionality easier to use. Like how the dashboard made Grazioso Salvare's job easier by creating functions to simplify the job.
+    
+    
+    
+    
+    This project would help gratly n narrowing down search results. Without the dashboard the company would have to go through thousands of records. I believe the job of a computer scientists to to find ways to make computers Functionality easier to use. Like how the dashboard made Grazioso Salvare's job easier by creating functions to simplify the job.
